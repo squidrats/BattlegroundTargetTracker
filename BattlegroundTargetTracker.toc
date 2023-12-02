@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: Battleground Target Tracker
+## Author: YourName
+## Version: 1.0
+## SavedVariables: BGTargetTrackerDB
+
+BattlegroundTargetTracker.lua
